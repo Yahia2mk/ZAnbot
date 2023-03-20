@@ -1,6 +1,6 @@
 
 
-<h1 align="center">⚜️ᗷOT ᗴᒪᘜᗩᘔᗩᖇ⚜️<br></h1>
+<h1 align="center">ZAnbot<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/9d09a00e6c16ca29eead1.jpg" alt="animated" width="540" height="280" />
 </p>
@@ -40,7 +40,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Donate Me```
 
-- [`FamPay`](https://telegra.ph/file/8737b098fd5702daeb7e0.jpg)
+- [`FamPay`]()
 
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
@@ -48,9 +48,9 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## ```Bot Support Groups```
 
-- [`1st GC`](https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS)
-- [`2nd GC`](https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5)
-- [`3rd GC`](https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd)
+- [`1st GC`]()
+- [`2nd GC`]()
+- [`3rd GC`]()
 
 # الاستعداد للفورك 👇
 
