@@ -175,7 +175,7 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
                     let unicorndoc = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "916909137213-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: XeonWlcm, surface: 200, message: `${metadata.subject}`, orderTitle: 'xeon', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
  https://telegra.ph/file/9a9f24bdb893c590a5b82.jpg   
      xeonbody = `┌─❖
-│「 هاي 👋 」
+│「 منور الجروب 👋 」
 └┬❖ 「 @${xeonName.split("@")[0]}  」
    │✑  مرحبا بك في 
    │✑  ${metadata.subject}
@@ -185,6 +185,7 @@ XeonLft = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeUR
    │✑ ${xmembers}th
    │✑  الوقت : 
    │✑ ${xtime} ${xdate}
+   │✑ زانقيتسو عمك
    └───────────────┈ ⳹`
       //if you copy the code value,
    //dont forget to put my name(Xeon) as credit
@@ -230,6 +231,7 @@ https://telegra.ph/file/f504bef433c8fd31d1674.jpg
    │✑ ${xeonmembers}th
    │✑  الوقت : 
    │✑  ${xeontime} ${xeondate}
+   │✑  ف ستين داهية
    └───────────────┈ ⳹`
       //if you copy the code value,
    //dont forget to put my name(Xeon) as credit
