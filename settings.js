@@ -55,22 +55,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['9660540637980'] //ur owner number
-global.ownername = "ABDUL RAHMAN🐼🍷 ٫" //ur owner name
-global.ytname = "YT: ABDUL RAHMAN" //ur yt chanel name
-global.socialm = "GitHub: ABDUL RAHMAN" //ur github or insta name
-global.location = "Egypt, Cairo, Aizawl" //ur location
+global.ownername = "yahia mo🍷 ٫" //ur owner name
+global.ytname = "YT: yahia mo" //ur yt chanel name
+global.socialm = "GitHub: yahia mo" //ur github or insta name
+global.location = "Egypt, elsharqi, 10th of Ramadan City " //ur location
 
 //bot bomdy 
-global.owner = ['9660540637980']
-global.ownertag = '9660540637980' //ur tag number
-global.botname = 'BOT ABDUL RAHMAN🐼🍷 ٫' //ur bot name
-global.linkz = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur website to be displayed
-global.botscript = 'https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv' //script link
+global.owner = ['+201013720933']
+global.ownertag = '+201013720933' //ur tag number
+global.botname = 'BOT ZAnbot ٫' //ur bot name
+global.linkz = "" //your theme url which will be displayed on whatsapp
+global.websitex = "" //ur website to be displayed
+global.botscript = '' //script link
 global.reactmoji = "🌚" //ur menu react emoji
 global.themeemoji = "🌞" //ur theme emoji
-global.packname = "⍣عبدالرحمن⍣" //ur sticker watermark packname
-global.author = "⍣9660540637980⍣" //ur sticker watermark author
+global.packname = "⍣yahia mo⍣" //ur sticker watermark packname
+global.author = "⍣+201013720933⍣" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['9660540637980'] //ur premium numbers
+global.premium = ['+201013720933'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -105,16 +105,16 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'تم يروحي ✓',
+    success: 'تم يحب ✓',
     admin: 'هذه الميزه للرجاله المشرفين,استرجل وجرب مره تانيه!! ',
     botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً!',
     owner: 'هذه الميزة للمالك فقط!',
-    group: 'لميزة تستخدم فقط للمجموعات!',
+    group: 'الميزة تستخدم فقط للمجموعات!',
     private: 'الميزه المستخدمة فقط للدردشة الخاصة!',
     bot: 'هذه الميزة مخصصة للبوت فقط',
     wait: 'استني شويه...',
     linkm: 'أين الرابط?',
-    error: 'ايرور!!',
+    error: 'ايرورو!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'لقد تم حظرك من قبل المالك ، إذا كنت تريد أن تكون غير محظور ، مالك الدردشة.',
     nsfw: 'لم يتم تنشيط ميزة nsfw ، يرجى الاتصال بالمسؤول للتفعيل',
